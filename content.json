@@ -1,0 +1,108 @@
+{
+  "revision": 4,
+  "shop": {
+    "name": "IKOI",
+    "hours": "11:00〜21:00",
+    "closed": "月曜定休",
+    "phone": "",
+    "line": "",
+    "address": "",
+    "directions": "",
+    "payments": "現金・カード・QR決済",
+    "concept": "コーヒーの香りと、焼き菓子のある時間。ひとりでふらっと立ち寄れる、8席の小さなお店です。気分に合わせて、コーヒーも、軽く一杯のお酒も。あなたのペースでお過ごしください。",
+    "interior": "assets/interior-hero.png",
+    "soloPhoto": "",
+    "counterPhoto": "assets/counter.png",
+    "hero": "assets/hero.png"
+  },
+  "menu": [
+    {
+      "id": "latte",
+      "category": "COFFEE／TEA",
+      "name": "カフェラテ",
+      "variant": "HOT／ICE",
+      "description": "エスプレッソに、まろやかなミルクを。",
+      "price": 700,
+      "photo": "",
+      "tile": 0,
+      "visible": true
+    },
+    {
+      "id": "scone",
+      "category": "FOOD",
+      "name": "プレーンスコーン",
+      "variant": "1個・クリーム＆ジャム添え",
+      "description": "ほろっとほどける、素朴なおいしさ。",
+      "price": 550,
+      "photo": "",
+      "tile": 1,
+      "visible": true
+    },
+    {
+      "id": "drip",
+      "category": "COFFEE／TEA",
+      "name": "ドリップコーヒー",
+      "variant": "HOT／ICE",
+      "description": "ひと息つきたい時間に、香り豊かな一杯。",
+      "price": 600,
+      "photo": "",
+      "tile": 2,
+      "visible": true
+    },
+    {
+      "id": "matcha",
+      "category": "COFFEE／TEA",
+      "name": "抹茶ラテ",
+      "variant": "HOT／ICE",
+      "description": "抹茶のほろ苦さと、ミルクのやさしさ。",
+      "price": 750,
+      "photo": "",
+      "tile": 3,
+      "visible": true
+    },
+    {
+      "id": "wine",
+      "category": "ALCOHOL",
+      "name": "グラスワイン",
+      "variant": "赤／白",
+      "description": "一日の終わりに、気軽な一杯を。",
+      "price": 850,
+      "photo": "",
+      "tile": 4,
+      "visible": true
+    },
+    {
+      "id": "beer",
+      "category": "ALCOHOL",
+      "name": "クラフトビール",
+      "variant": "小瓶1本",
+      "description": "ゆっくり楽しむ、小瓶のビール。",
+      "price": 950,
+      "photo": "",
+      "tile": 5,
+      "visible": true
+    },
+    {
+      "id": "cheese",
+      "category": "FOOD",
+      "name": "バスクチーズケーキ",
+      "variant": "",
+      "description": "香ばしい焼き色と、濃厚な口どけ。",
+      "price": 750,
+      "photo": "",
+      "tile": 6,
+      "visible": true
+    },
+    {
+      "id": "carrot",
+      "category": "FOOD",
+      "name": "キャロットケーキ",
+      "variant": "",
+      "description": "コーヒーと合わせたい、やさしい甘さ。",
+      "price": 700,
+      "photo": "",
+      "tile": 7,
+      "visible": true
+    }
+  ]
+}
